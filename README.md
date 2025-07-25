@@ -82,3 +82,12 @@ You will need Python and pip installed on your machine.
 ├── templates
 │   └── index.html     # The single-page frontend
 └── Rainfall.csv       # The dataset with historical rainfall data
+
+```
+### 🚀 Run It
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
